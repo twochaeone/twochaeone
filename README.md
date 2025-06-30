@@ -34,9 +34,9 @@ HTML/CSS부터 JavaScript, Spring Boot까지 다양한 기술을 학습하며 �
 ### 🃏 텍사스 홀덤 게임 (HTML/JS)
 - 순수 JavaScript로 만든 브라우저 기반 홀덤 게임
 - 카드 셔플, 핸드 평가, 턴 진행 로직 직접 구현
-- [GitHub 바로가기](https://github.com/your-username/holdem-game)
+- [GitHub 바로가기](https://github.com/twochaeone/holdom.git)
 
 ### 🎓 학사관리 시스템 (Spring MVC)
 - 로그인, 수강신청, 파일 업로드 기능 포함한 교육관리 웹서비스
 - Controller–Service–DAO 구조에 따라 레이어드 설계
-- [프로젝트 링크](https://github.com/your-username/edu-system)
+- [프로젝트 링크](https://github.com/jinagayo/SeminProject.git)
