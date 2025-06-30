@@ -39,4 +39,21 @@ HTML/CSS부터 JavaScript, Spring Boot까지 다양한 기술을 학습하며 �
 ### 🎓 학사관리 시스템 (Spring MVC)
 - 로그인, 수강신청, 파일 업로드 기능 포함한 교육관리 웹서비스
 - Controller–Service–DAO 구조에 따라 레이어드 설계
-- [프로젝트 링크](https://github.com/jinagayo/SeminProject.git)
+- [GitHub 바로가기](https://github.com/jinagayo/SeminProject.git)
+
+### 🔌 전력 수요량 예측 모델 (Python / 머신러닝)
+
+- 기온, 시간, 습도 등 외부 데이터를 기반으로 전력 수요량을 예측하는 머신러닝 모델 구축
+- SVM, Random Forest 등 다양한 모델을 실험하여 성능 비교
+- 실제 전력 사용 데이터를 기반으로 피처 엔지니어링과 시각화 수행
+- [GoogleColab 바로가기](https://colab.research.google.com/drive/1bx222-pZC9R49Ihhdu9d3nKPDdJN6VW9) 
+
+---
+
+### 🎹 KNN + OpenCV 기반 가상 키보드 ( Python)
+
+- 손가락 위치를 OpenCV로 추적하고, 좌표 데이터를 KNN 알고리즘으로 분류하여 키보드 입력을 구현
+- 카메라 영상 입력을 실시간 분석하여 손 제스처 기반 타이핑 시연
+- 머신러닝과 영상처리의 융합을 학습하고, 사용자 입력을 비접촉식으로 처리하는 방법 고안
+
+
