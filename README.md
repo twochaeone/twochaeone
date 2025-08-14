@@ -40,6 +40,11 @@ HTML/CSS부터 JavaScript, Spring Boot까지 다양한 기술을 학습하며 �
 - 로그인, 수강신청, 파일 업로드 기능 포함한 교육관리 웹서비스
 - Controller–Service–DAO 구조에 따라 레이어드 설계
 - [GitHub 바로가기](https://github.com/jinagayo/SeminProject.git)
+- 
+### 🎓 코딩 학습 웹사이트 (Spring MVC)
+- 로그인, 수강신청(결제), 동영상 업로드 및 시청(S3 사용) 기능 포함한 코딩 학습 웹사이트
+- React, Spring Boot 사
+- [Google Drive 바로가기](https://drive.google.com/drive/folders/1cSb2wm0CjfX-r8e7P_AOojUQEMGE7y0z?usp=drive_link)
 
 ### 🔌 전력 수요량 예측 모델 (Python / 머신러닝)
 
