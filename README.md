@@ -39,27 +39,6 @@ Python과 DB를 활용한 ETL 자동화 시스템을 직접 구현하며,
 
 ## 📂 주요 프로젝트
 
-### 🃏 텍사스 홀덤 게임 (HTML/JS)
-- 순수 JavaScript로 만든 브라우저 기반 홀덤 게임
-- 카드 셔플, 핸드 평가, 턴 진행 로직 직접 구현
-- [GitHub 바로가기](https://github.com/twochaeone/holdom.git)
-
-### 🎓 학사관리 시스템 (Spring MVC)
-- 로그인, 수강신청, 파일 업로드 기능 포함한 교육관리 웹서비스
-- Controller–Service–DAO 구조에 따라 레이어드 설계
-- [GitHub 바로가기](https://github.com/jinagayo/SeminProject.git)
-- 
-### 🎓 코딩 학습 웹사이트 (Spring MVC)
-- 로그인, 수강신청(결제), 동영상 업로드 및 시청(S3 사용) 기능 포함한 코딩 학습 웹사이트
-- React, Spring Boot 사
-- [GitHub 바로가기](https://github.com/jinagayo/final_back?tab=readme-ov-file)
-
-### 🔌 전력 수요량 예측 모델 (Python / 머신러닝)
-
-- 기온, 시간, 습도 등 외부 데이터를 기반으로 전력 수요량을 예측하는 머신러닝 모델 구축
-- SVM, Random Forest 등 다양한 모델을 실험하여 성능 비교
-- 실제 전력 사용 데이터를 기반으로 피처 엔지니어링과 시각화 수행
-- [GoogleColab 바로가기](https://colab.research.google.com/drive/1bx222-pZC9R49Ihhdu9d3nKPDdJN6VW9) 
 
 ### ⚙️ ETL Job 자동화 시스템 (Python / DB 기반)
 - XML 기반 ETL 생성 구조를 제거하고, 메타데이터(테이블/컬럼 매핑)를 활용해 SELECT 쿼리 및 Job을 DB에 직접 생성하도록 자동화
@@ -67,9 +46,28 @@ Python과 DB를 활용한 ETL 자동화 시스템을 직접 구현하며,
 - 반복 작업 제거 및 Job 생성 프로세스 단순화로 효율성과 안정성 개선
 - [Notion 바로가기](https://www.notion.so/32e06641aa1d802882ddecaed097617b?source=copy_link) 
 
+### 🔌 전력 수요량 예측 모델 (Python / 머신러닝)
+- 기온, 시간, 습도 등 외부 데이터를 기반으로 전력 수요량을 예측하는 머신러닝 모델 구축
+- SVM, Random Forest 등 다양한 모델을 실험하여 성능 비교
+- 실제 전력 사용 데이터를 기반으로 피처 엔지니어링과 시각화 수행
+- [GoogleColab 바로가기](https://colab.research.google.com/drive/1bx222-pZC9R49Ihhdu9d3nKPDdJN6VW9)
 
+### 🎓 학사관리 시스템 (Spring MVC)
+- 로그인, 수강신청, 파일 업로드 기능 포함한 교육관리 웹서비스
+- Controller–Service–DAO 구조에 따라 레이어드 설계
+- [GitHub 바로가기](https://github.com/jinagayo/SeminProject.git)
+ 
+### 🎓 코딩 학습 웹사이트 (Spring MVC)
+- 로그인, 수강신청(결제), 동영상 업로드 및 시청(S3 사용) 기능 포함한 코딩 학습 웹사이트
+- React, Spring Boot 사
+- [GitHub 바로가기](https://github.com/jinagayo/final_back?tab=readme-ov-file)
+
+### 🃏 텍사스 홀덤 게임 (HTML/JS)
+- 순수 JavaScript로 만든 브라우저 기반 홀덤 게임
+- 카드 셔플, 핸드 평가, 턴 진행 로직 직접 구현
+- [GitHub 바로가기](https://github.com/twochaeone/holdom.git)
+  
 ### 🎹 KNN + OpenCV 기반 가상 키보드 ( Python)
-
 - 손가락 위치를 OpenCV로 추적하고, 좌표 데이터를 KNN 알고리즘으로 분류하여 키보드 입력을 구현
 - 카메라 영상 입력을 실시간 분석하여 손 제스처 기반 타이핑 시연
 - 머신러닝과 영상처리의 융합을 학습하고, 사용자 입력을 비접촉식으로 처리하는 방법 고안
